@@ -8,6 +8,6 @@ OPENSTACK_VERSION = '2.0'
 OPENSTACK_USER = 'admin'
 OPENSTACK_PASSWORD = 'password'
 OPENSTACK_URL = 'http://10.128.0.3/identity'
-OPENSTACK_PROJECT_ID = '38e524c763324b9bb2facf26ea64f115'
+OPENSTACK_PROJECT_ID = '*********************'
 # max idle time in seconds
 VM_MAX_IDLE_TIME = 600
